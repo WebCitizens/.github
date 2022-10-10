@@ -16,6 +16,7 @@
 
 ## 贡献者
 
+![](./assets/firepunch.jpg)
 ![绘梨](./assets/huili.jpg)
 
 ## 开源协议
