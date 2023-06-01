@@ -1,5 +1,5 @@
 ## 前端群玉阁
-<img  height="600" width="100%" alt="html" src="./assets/firepunch.jpg">
+<img  height="450" width="100%" alt="html" src="./assets/firepunch.jpg">
 
 **前端群玉阁**是一个友好的前端交流社区，这是一个你可以免费获取各大学习资源的组织，包括但不限于前端面试资料，前端实战项目，前端学习路线... 一切都是基于组织成员的个人分享和整理， 希望能够帮到更多的人， 并且让社区参与进来。
 
